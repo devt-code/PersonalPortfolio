@@ -23,8 +23,8 @@ const About = () => {
         
         <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
           <p>
-            I'm a Computer Science graduate student at Northeastern University with a strong foundation in
-            full-stack development, cloud infrastructure, and automation. Currently pursuing my Master's degree
+            I’m a Computer Science graduate student at Northeastern University with a strong foundation in
+            full-stack development, cloud infrastructure, and automation. Currently pursuing my Master’s degree
             with a perfect 4.0 GPA, I bring a blend of academic excellence and real-world industry experience
             from my time at Oracle.
           </p>
@@ -32,13 +32,13 @@ const About = () => {
           <p>
             During my tenure as an Associate Software Developer at Oracle, I designed and deployed RESTful
             automation services, migrated production systems to dual-stack IPv4/IPv6, and built CI/CD pipelines
-            that significantly improved efficiency. I'm passionate about building scalable solutions and
+            that significantly improved efficiency. I’m passionate about building scalable solutions and
             leveraging modern technologies to solve complex problems.
           </p>
           
           <p>
-            When I'm not coding, you can find me exploring new technologies, working on side projects, or
-            contributing to open-source initiatives. I'm always eager to learn and apply new skills to create
+            When I’m not coding, you can find me exploring new technologies, working on side projects, or
+            contributing to open-source initiatives. I’m always eager to learn and apply new skills to create
             innovative solutions.
           </p>
         </div>

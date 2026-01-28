@@ -94,7 +94,7 @@ const Contact = () => {
           Get In Touch
         </h2>
         <p className="text-center text-gray-600 mb-12">
-          Have a project in mind? Let's work together to bring your ideas to life.
+          Have a project in mind? Let’s work together to bring your ideas to life.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -190,7 +190,7 @@ const Contact = () => {
 
             {submitStatus === 'success' && (
               <div className="p-3 bg-green-50 text-green-700 rounded-lg text-sm">
-                Message sent successfully! I'll get back to you soon.
+                Message sent successfully! I’ll get back to you soon.
               </div>
             )}
 

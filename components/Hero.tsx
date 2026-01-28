@@ -38,7 +38,7 @@ const Hero = () => {
             variants={itemVariants}
             className="text-5xl md:text-7xl font-bold mb-6"
           >
-            Hi, I'm{' '}
+            Hi, I’m{' '}
             <span className="gradient-text">Deva Sai Sunder Tangella</span>
           </motion.h1>
           
